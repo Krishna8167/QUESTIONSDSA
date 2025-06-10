@@ -49,8 +49,6 @@ public class recursionInsertionnode {
         }
         System.out.println("null");
     }
-
-    // Sample usage
     public static void main(String[] args) {
         Node head = null;
 
