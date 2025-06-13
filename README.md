@@ -25,6 +25,6 @@ Each folder contains:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/DSA-Questions-Answers.git
-   cd DSA-Questions-Answers
+   git clone https://github.com/Krishna8167/QUESTIONSDSA.git
+   cd QUESTIONSDSA
 
