@@ -26,10 +26,10 @@ public int[] mix(int[] l, int[] r) {
   while(i < l.length && j < r.length) {
 
     if(l[i] < r[j]) {
-      mix[k] = l[i];
+      l[i] = mix[k];
       i++;
     } else {
-      mix[k] = r[j];
+      r[j] = mix[k];
       j++;
     }
     k++;
